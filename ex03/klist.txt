@@ -1,0 +1,5 @@
+Credentials cache: API:E9C1812A-F46A-475E-B5B2-D0506AFC73CC
+        Principal: rboivin@42.FR
+
+  Issued                Expires               Principal
+Jul 30 15:27:55 2018  Aug  6 15:27:24 2018  krbtgt/42.FR@42.FR
